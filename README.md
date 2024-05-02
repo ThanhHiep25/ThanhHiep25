@@ -15,7 +15,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/@NguyenHiep-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer noopener">
-    <img alt="Email" src="https://img.shields.io/badge/Email- @NguyenHiep-100000?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img alt="Email" src="https://img.shields.io/badge/@NguyenHiep-100000?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </div>
 
