@@ -20,7 +20,7 @@ jobs:
       - name: Update README
         run: |
           node update-readme.js
-          git config --global user.name "Quang Duy"
-          git config --global user.email "dinhduy2012003@gmail.com"
+          git config --global user.name "Nguyễn Hiệp"
+          git config --global user.email "hiepnguyen.250402@gmail.com"
           git commit -am "Update README.md"
           git push
