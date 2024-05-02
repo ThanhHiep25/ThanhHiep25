@@ -14,8 +14,8 @@
   <a href="https://github.com/ThanhHiep25" target="_blank" rel="noreferrer noopener">
     <img alt="GitHub" src="https://img.shields.io/badge/@NguyenHiep-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="hiepnguyen.250402@gmail.com" target="_blank" rel="noreferrer noopener">
-    <img alt="GitHub" src="https://img.shields.io/badge/Email- @NguyenHiep-100000?style=for-the-badge&logo=github&logoColor=red"/>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/Email- @NguyenHiep-100000?style=for-the-badge&logo=email&logoColor=red"/>
   </a>
 </div>
 
