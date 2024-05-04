@@ -5,7 +5,7 @@ const readmePath = './README.md';
 const readmeContent = fs.readFileSync(readmePath, 'utf8');
 
 // Replace the age value with the current age
-const birthYear = 2003;
+const birthYear = 2002;
 const currentYear = new Date().getFullYear();
 const age = currentYear - birthYear;
 const updatedContent = readmeContent.replace(/(\d+)\+years\+old/, `${age}+years+old`);
