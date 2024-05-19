@@ -28,7 +28,7 @@
   <img width=54.1% alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThanhHiep25&show_icons=true&bg_color=2E344000&title_color=81A1C1FF&text_color=A9A9A9FF&icon_color=8FBCCBFF&custom_title=NguyenHiep%27s%20GitHub%20Stats&hide=issues&hide_border=true"/>
   <img width=35.9% alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThanhHiep25&show_icons=true&layout=compact&bg_color=2E344000&title_color=81A1C1FF&text_color=A9A9A9FF&custom_title=NguyenHiep's%20Most%20Used%20Languages&hide_border=true"/>
   <br/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ThanhHiep25&theme=ambient-gradient&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <img width=60% alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ThanhHiep25&theme=nord&background=2E344000&dates=A9A9A9FF&hide_border=true"/>
 </div>
 
 <!---
