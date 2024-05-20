@@ -5,7 +5,7 @@
 
 <!-- Visitors Counter -->
 <p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ThanhHiep25&label=Visitors&color=8FBCCB&style=for-the-badge"/>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ThanhHiep25&label=Visitors&color=orange&style=for-the-badge"/>
 </p>
 
 <!-- Social Media -->
