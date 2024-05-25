@@ -36,4 +36,12 @@
 
 --->
 
+<h1>Programming language</h1>
 
+<div align="center">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,wasm" />
+  </a>
+</p>
+</div>
