@@ -36,12 +36,12 @@
 
 --->
 
-<h1>Programming language</h1>
+<h1>Programming language & support tools</h1>
 
 <div align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,wasm" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,wasm,java,nodejs,figma,aws,gcp,react,flutter&perline=3" />
   </a>
 </p>
 </div>
