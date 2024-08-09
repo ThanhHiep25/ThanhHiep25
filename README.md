@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <p align="center">
-  <img alt="Introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=42F7D7&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;Nguyễn+Hiệp.;I'm+22+years+old.;Welcome+to+my+GitHub;IUH+(●'◡'●)"/>
+  <img alt="Introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=42F7D7&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;Nguyễn+Hiệp.;I'm+23+years+old.;Welcome+to+my+GitHub;IUH+(●'◡'●)"/>
 </p>
 
 <!-- Visitors Counter -->
