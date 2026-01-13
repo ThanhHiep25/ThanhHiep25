@@ -17,8 +17,8 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer noopener">
     <img alt="Email" src="https://img.shields.io/badge/@NguyenHiep-100000?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-  <a href="https://git-phantom.netlify.app/" target="_blank" rel="noreferrer noopener">
-    <img alt="Git-Phantom" src="https://img.shields.io/badge/GitPhantom-100000?style=for-the-badge&logo=aiqfome&logoColor=blue"/>
+  <a href="https://portfolio-seven-roan-80.vercel.app/" target="_blank" rel="noreferrer noopener">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=aiqfome&logoColor=blue"/>
   </a>
 </div>
 
