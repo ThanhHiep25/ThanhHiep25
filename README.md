@@ -52,5 +52,5 @@
 
 <h1>Donate Here !</h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/897fc73d-35b4-4ece-beb8-72c0e214333d" width="500" height="300" style="border-radius: 60px;" />
+  <img src="https://github.com/user-attachments/assets/897fc73d-35b4-4ece-beb8-72c0e214333d" width="500" height="400" style="border-radius: 60px;" />
 </div>
